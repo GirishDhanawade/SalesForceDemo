@@ -1,0 +1,10 @@
+public class NewProject 
+{
+    public static Integer A = 5;
+    public static Integer B = 8;
+    public static Integer C ;
+    public static void calculate() 
+    {
+        C = A + B;
+        System.debug('Addition Of two Veriables = '+C);
+    } }
